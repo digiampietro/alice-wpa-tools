@@ -1,0 +1,3 @@
+v 1.1 2011-09-09 aggiornato il config.txt                 
+                 modificato alice-mn ora genera, di default, non piu'
+                 due righe, ma una sola da inserire nel config.txt
